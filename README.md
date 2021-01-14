@@ -5,10 +5,11 @@ In this lab, we will be analyzing power consumption traces to extract the passwo
 
 ## Launch
 ```
-Skip if you already have these packages installed:
+Skip if you already have these packages installed: (pip install...)
 jupyterlab
 pickle-mixin
-ipyml
+ipympl
+matplotlib
 
 $ git clone https://github.com/andrewlinjiang/spa_attack.git
 $ jupyter-lab
